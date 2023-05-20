@@ -1,2 +1,2 @@
 # AB-testing
-in this project we made a comparison between the old used website and the new one for increasing sales , is it worth to implement the new website for increasing  sales? or make futher invistigation? or still use the old one?, we used some statics ,hypothesis testing and some graphs
+In this project, we conducted a comparative analysis between the old website and the newly developed one to assess its potential for increasing sales. Our objective was to determine whether it is worth implementing the new website or if further investigation is required before making a decision. To evaluate this, we employed statistical analysis, hypothesis testing, and graphical representations.
